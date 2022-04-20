@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20.04.2022", "20.04.2022.csproj", "{B6E9D3FA-C9AF-49BA-BA90-DEDF721647A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library", "..\Library\Library.csproj", "{F130AC45-AFE5-4794-BEAE-B4CC9A104F35}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "..\UnitTest\UnitTest.csproj", "{8C52E96F-1A0C-4FCB-8A62-7D1C529A8D06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6E9D3FA-C9AF-49BA-BA90-DEDF721647A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6E9D3FA-C9AF-49BA-BA90-DEDF721647A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6E9D3FA-C9AF-49BA-BA90-DEDF721647A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6E9D3FA-C9AF-49BA-BA90-DEDF721647A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F130AC45-AFE5-4794-BEAE-B4CC9A104F35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F130AC45-AFE5-4794-BEAE-B4CC9A104F35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F130AC45-AFE5-4794-BEAE-B4CC9A104F35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F130AC45-AFE5-4794-BEAE-B4CC9A104F35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C52E96F-1A0C-4FCB-8A62-7D1C529A8D06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C52E96F-1A0C-4FCB-8A62-7D1C529A8D06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C52E96F-1A0C-4FCB-8A62-7D1C529A8D06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C52E96F-1A0C-4FCB-8A62-7D1C529A8D06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A850FA04-04B6-4961-B30E-292C37B2DAB7}
+	EndGlobalSection
+EndGlobal
